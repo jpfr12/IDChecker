@@ -5,7 +5,7 @@ Portuguese ID and Fiscal Code validation checker for Android OS
 
 * The PDF file is in **Portuguese**. 
 
-* To use or edit this app just download the zip folder and import to **Android Studio**.
+* To use this app just download the apk file and install to **Android OS cell phone**.
 
 ---
 
