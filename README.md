@@ -10,7 +10,7 @@ Portuguese ID and Fiscal Number validation checker for Android OS
 ---
 
 The portuguese ID, known in Portugal as *Cartão de cidadão*, is the first part of the App.  
-The algorithm is in the pdf file, along with this post, and has an example code in C#. 
+The algorithm is in the pdf file, along with this post, has an example code in C#. 
 
 * The portuguese ID is a string made of digits from 0-9 and english alphabet letters from A-Z. 
 * The letters will be converted to numbers in the process. 'A' as value 10, 'B' as value 11, 'C' as value 12 and so on.
